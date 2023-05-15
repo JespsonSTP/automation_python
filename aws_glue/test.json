@@ -1,0 +1,17 @@
+{
+    "detail-type": "Object Created",
+    "source": "aws.s3",
+    "region": "us-west-2",
+    "resources": [
+        "arn:aws:s3:::uploads-wdxleiilinfgsppl"
+    ],
+    "detail": {
+        "bucket": {
+            "name": "uploads-wdxleiilinfgsppl"
+        },
+        "object": {
+            "key": "test.json"
+        },
+        "reason": "PutObject"
+    }
+}
